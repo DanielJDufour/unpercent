@@ -1,6 +1,6 @@
 {
   "name": "unpercent",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert a Percentage String to a Number",
   "main": "unpercent.js",
   "files": [
