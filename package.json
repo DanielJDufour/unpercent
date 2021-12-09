@@ -1,0 +1,33 @@
+{
+  "name": "unpercent",
+  "version": "0.0.0",
+  "description": "Convert a Percentage String to a Number",
+  "main": "unpercent.js",
+  "scripts": {
+    "format": "npx prettier --print-width=120 --write *.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/unpercent.git"
+  },
+  "keywords": [
+    "fraction",
+    "math",
+    "number",
+    "num",
+    "parse",
+    "percent",
+    "percentage",
+    "ratio"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/unpercent/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/unpercent#readme",
+  "devDependencies": {
+    "flug": "^2.2.0"
+  }
+}
